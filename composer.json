@@ -1,0 +1,8 @@
+{
+  "require": {
+    "silex/silex": "~2.0",
+    "symfony/security": "~2.7,<3.0",
+    "gigablah/silex-oauth": "~2.0@dev",
+    "twig/twig": "~1.0"
+  }
+}
